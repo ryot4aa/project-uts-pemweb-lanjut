@@ -15,7 +15,7 @@ const Home = () => {
                     <div>
                         <h1 className='mb-2 text-3xl font-extrabold capitalize leading-[1.2] md:text-5xl'>Selamat{'    '} <span className='bg-gradient-to-r from-blue-600 to-purple-600 dark:from-orange-500 dark:to-yellow-400 bg-clip-text text-transparent'>Datang</span></h1>
                     </div>
-                    <p className='mb-4 md:text-lg'>Saya Rizky dwi akmalrio , Saya adalah seorang mahasiswa jurusan Informatika di universitas Itenas</p>
+                    <p className='mb-4 md:text-lg'>Saya Rizky Dwi Akamlrio Praditha, Saya adalah seorang mahasiswa jurusan Informatika di Institut Nasional Bandung</p>
                     <a className='px-6 py-3 inline-block capitalize font-semibold bg-gradient-to-r from-blue-600 to-purple-600 dark:from-orange-500 dark:to-yellow-400 text-white dark:text-black rounded-md' href="#about">Lanjutkan</a>
                 </div>
             </div>
